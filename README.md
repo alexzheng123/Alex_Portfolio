@@ -16,7 +16,7 @@ Sep 2021 – June 2025 (expected)
 **Esade Business School**&nbsp;&nbsp;&nbsp;&nbsp;Barcelona, Spain  
 Exchange Programme Bachelor in Global Governance, Economics & Legal Order  
 Sep 2023 – June 2024  
-- Key Modules: Behavioural Economics (78%), Econometrics (96%), Industrial Organisation (70%), Intermediate Microeconomics (95%), Scrum & Kanban as Agile Method (70%), Advanced Accounting
+- Key Modules: Behavioural Economics (78%), Econometrics (96%), Industrial Organisation (70%), Intermediate Microeconomics (95%), Scrum & Kanban as Agile Method (70%), Advanced Accounting (86%), International Development (90%)
 
 **Chigwell School**&nbsp;&nbsp;&nbsp;&nbsp;London, UK  
 A-Level grades: Economics (A*), Further Mathematics (A*), Mathematics (A*), Physics (A*)  
