@@ -5,7 +5,7 @@
 Hi, Welcome to my portfolio site! I'm Alex Zheng, an undergraduate student studying Economics with a passion for finance and data science. Here you can find information about my data science projects.
 
 
-## [Project 1: WorldQuant University Applied Data Science Lab](https://www.kaggle.com/code/alexzheng123/project1-housing-in-mexico)
+## [Project 1: WorldQuant University Applied Data Science Lab](weblink)
 - Analysed 6582 Buenos Aires properties, determining price factors. Developed predictive model using linear regression, with robust data pipeline handling missing values, categorical features, and overfitting. Techniques included loading CSV files, cleaning data, and creating visualizations like Mapbox scatter plots and heatmaps.
 - Built Autoregression Models to predict PM2.5 levels in Kenya from a MongoDB database and improved model performance through hyperparameter tuning.
 - Built Logistic Regression and Decision Tree Model using SQL database to predict earthquake damage to buildings in Nepal.
