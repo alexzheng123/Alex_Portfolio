@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-Hi, Welcome to my portfolio site! I'm Alex Zheng, an undergraduate student studying Economics with a passion for finance and data science. Here you can find information about my recent data science projects.
+Hi, Welcome to my portfolio site! I'm Alex Zheng, an undergraduate student studying Economics with a passion for finance and data science. Here you can find information about my data science projects.
 
 
 ## [Project 1: WorldQuant University Applied Data Science Lab](https://www.kaggle.com/work/collections/14331416)
