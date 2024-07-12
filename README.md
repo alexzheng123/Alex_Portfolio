@@ -55,7 +55,7 @@ June 2023 – July 2023
 
 - **Languages:** English (Full professional proficiency), Mandarin (native), Cantonese (native), Spanish (elementary)
 - **Licenses & Certifications:** Applied Data Science Lab (WorldQuant University), Financial Risk Management with R (Duke University)
-- **Software:** Microsoft, LaTeX, Stata, R, Python, HTML, JSON, MongoDB, SQL
+- **Software:** Microsoft, LaTeX, Stata, R, Python, JSON, MongoDB, SQL
 - **Interests:** Warwick Table Tennis Club, High School basketball team, Piano (ABRSM Music Theory Grade 5)
 
 ## Data Science Portfolio
