@@ -15,13 +15,10 @@ Hi, Welcome to my portfolio site! I'm Alex Zheng, an undergraduate student study
   - Statistical analysis revealing correlations between price and area.
 
 ### Key Highlights
-![Geographical Distribution of Housing Prices](images/map_figure.png)
-*Geographical distribution of housing prices showcasing the impact of location.*
+<img src="images/map_figure.png" alt="Geographical Distribution of Housing Prices" width="500"/>
 
-![Price per Square Foot vs Area](images/price_per_sq_foot_vs_area_scatter.png)
-*Scatter plot illustrating the correlation between house prices per square foot and area.*
+<img src="images/price_per_sq_foot_vs_area_scatter.png" alt="Price per Square Foot vs Area" width="500"/>
 
-![Top 20 Areas by Mean Price per Square Foot](images/mean_price_per_sq_foot_by_area_top_20.png)
-*Bar chart showing the top 20 areas by mean price per square foot.*
+<img src="images/mean_price_per_sq_foot_by_area_top_20.png" alt="Top 20 Areas by Mean Price per Square Foot" width="500"/>
 
 Feel free to explore the repository for detailed code and findings.
