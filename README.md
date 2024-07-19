@@ -23,7 +23,7 @@ Hi, Welcome to my portfolio site! I'm Alex Zheng, an undergraduate student study
 
 
 
-## [Project 2: Buenos Aires Housing Price Prediction Project](https://github.com/alexzheng123/Buenos-Aires-Housing-Price)
+## [Project 2: Buenos Aires Housing Price Prediction Project](https://github.com/alexzheng123/Buenos-Aires-Property-Market)
 - Focused on predicting housing prices in Buenos Aires based on factors such as size, location, and neighborhood.
 - Divided analysis into several notebooks, each addressing different aspects of the prediction model.
 
