@@ -21,7 +21,6 @@ Hi, Welcome to my portfolio site! I'm Alex Zheng, an undergraduate student study
     <img src="images/project1/price_per_sq_foot_vs_area_scatter.png" alt="Price per Square Foot vs Area" style="width: 52%;"/>
 </div>
 
-Feel free to explore the repository for detailed code and findings.
 
 
 ## [Project 2: Buenos Aires Housing Price Prediction Project](https://github.com/alexzheng123/Buenos-Aires-Housing-Price)
@@ -64,4 +63,3 @@ Feel free to explore the repository for detailed code and findings.
     <img src="images/project2/fig4.1_feature_importance.png" alt="Feature Importance" style="width: 23%;"/>
 </div>
 
-Feel free to explore the repository for detailed code and findings.
