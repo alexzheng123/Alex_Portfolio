@@ -63,3 +63,15 @@ Hi, Welcome to my portfolio site! I'm Alex Zheng, an undergraduate student study
     <img src="images/project2/fig4.1_feature_importance.png" alt="Feature Importance" style="width: 23%;"/>
 </div>
 
+## [Project 3: Cat Image Identification Using Deep Learning](https://github.com/alexzheng123/Cat_Image_Classification)
+- Developed a deep neural network model to classify images as either containing a cat or not.
+- Implemented a 5-layer neural network architecture using ReLU activations and sigmoid for the output layer.
+- Trained on a dataset of 64x64 images and achieved over 98% accuracy on the training set and 82% on the test set.
+
+### Key Steps:
+- Data pre-processing: Flattened, reshaped, and normalized input images.
+- Built the neural network: [LINEAR->RELU] × (L-1) -> LINEAR -> SIGMOID.
+- Backpropagation: Implemented gradient descent for weight updates.
+- Evaluation: Tested the model on new images and visualized the results.
+
+
