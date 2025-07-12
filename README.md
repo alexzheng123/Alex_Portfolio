@@ -4,7 +4,7 @@
 
 Hi, Welcome to my portfolio site! I'm Alex Zheng, an undergraduate student studying Economics with a passion for finance and data science. Here you can find information about my data science projects.
 
-## [Project 1: Hong Kong Housing Price Data Science Project](https://github.com/alexzheng123/Hong-Kong-Housing-Price)
+## [Project 3: Hong Kong Housing Price Data Science Project](https://github.com/alexzheng123/Hong-Kong-Housing-Price)
 - Scraped housing information from Centaline Property Agency.
 - Cleaned and processed the data, including geocoding addresses.
 - Conducted various visualizations and analyses to understand the housing market in Hong Kong.
@@ -23,7 +23,7 @@ Hi, Welcome to my portfolio site! I'm Alex Zheng, an undergraduate student study
 
 
 
-## [Project 2: Buenos Aires Housing Price Prediction Project](https://github.com/alexzheng123/Buenos-Aires-Property-Market)
+## [Project 4: Buenos Aires Housing Price Prediction Project](https://github.com/alexzheng123/Buenos-Aires-Property-Market)
 - Focused on predicting housing prices in Buenos Aires based on factors such as size, location, and neighborhood.
 - Divided analysis into several notebooks, each addressing different aspects of the prediction model.
 
