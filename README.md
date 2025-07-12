@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-Hi, Welcome to my portfolio site! I'm Alex Zheng, an undergraduate student studying Economics with a passion for finance and data science. Here you can find information about my data science projects.
+Hi, Welcome to my portfolio site! I'm Alex Zheng, an economics student with a passion for data science and machine learning. Here you can find information about my projects.
 
 ## [Project 3: Hong Kong Housing Price Data Science Project](https://github.com/alexzheng123/Hong-Kong-Housing-Price)
 - Scraped housing information from Centaline Property Agency.
