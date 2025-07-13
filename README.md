@@ -6,6 +6,31 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 
 ---
 
+## [Dissertation – Market Efficiency of Bitcoin in 2024](https://github.com/alexzheng123/EC331-project)
+
+- Undergraduate dissertation analysing the weak-form market efficiency of Bitcoin using 1-minute BTC/USD data from 2024.
+- Applied both traditional statistical tests (e.g. Ljung-Box, Hurst, BDS) and deep learning models (GRU, VMD-GRU-Attention).
+- Proposed and tested a novel VMD-GRU-Attention model that achieved strong predictive performance in forecasting returns, challenging the weak-form EMH and suggesting that potentially exploitable trading opportunities may exist.
+
+### Key Visualisations
+
+#### Bitcoin Price & Volume (2024)
+<img src="images/dissertation/Bitcoin Close Price and volume.png" width="600"/>
+
+#### VMD-GRU-Attention Architecture
+<img src="images/dissertation/VMD-GRU-Attention-steps.png" width="600"/>
+
+#### VMD Decomposition
+<img src="images/dissertation/VMD decomposition.png" width="600"/>
+
+#### Forecast vs Actual (Validation & Test)
+<div style="display: flex; gap: 10px;">
+  <img src="images/dissertation/VMD-GRU-Att Forecast vs Actual Returns (Validation Set).png" width="48%"/>
+  <img src="images/dissertation/VMD-GRU-Att Forecast vs Actual Returns (Test Set).png" width="48%"/>
+</div>
+
+---
+
 ## [Project 1: Hong Kong Housing Price Data Science Project](https://github.com/alexzheng123/Hong-Kong-Housing-Price)
 
 - Scraped housing information from Centaline Property Agency.
