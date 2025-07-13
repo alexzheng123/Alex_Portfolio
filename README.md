@@ -20,9 +20,10 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 
 **Key Highlights:**
 
-![Geographical Distribution of Housing Prices](images/project1/map_figure.png)
-![Price per Square Foot vs Area](images/project1/price_per_sq_foot_vs_area_scatter.png)
-
+<div style="display: flex; justify-content: space-between;">
+    <img src="images/project1/map_figure.png" alt="Geographical Distribution of Housing Prices" style="width: 45%;"/>
+    <img src="images/project1/price_per_sq_foot_vs_area_scatter.png" alt="Price per Square Foot vs Area" style="width: 52%;"/>
+</div>
 ---
 
 ## [Project 2: Buenos Aires Housing Price Prediction Project](https://github.com/alexzheng123/Buenos-Aires-Property-Market)
@@ -67,10 +68,12 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 
 **Key Highlights:**
 
-![Linear Regression Model Plot](images/project2/fig2.4_model_plot.png)
-![Geographical Distribution of Housing Prices](images/project2/fig3.1_map.png)
-![3D Scatter Plot with Plane](images/project2/fig3.3_3d.png)
-![Feature Importance](images/project2/fig4.1_feature_importance.png)
+<div style="display: flex; justify-content: space-between;">
+    <img src="images/project2/fig2.4_model_plot.png" alt="Linear Regression Model Plot" style="width: 23%;"/>
+    <img src="images/project2/fig3.1_map.png" alt="Geographical Distribution of Housing Prices" style="width: 23%;"/>
+    <img src="images/project2/fig3.3_3d.png" alt="3D Scatter Plot with Plane" style="width: 23%;"/>
+    <img src="images/project2/fig4.1_feature_importance.png" alt="Feature Importance" style="width: 23%;"/>
+</div>
 
 ---
 
