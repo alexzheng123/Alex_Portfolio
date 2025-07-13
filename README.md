@@ -13,13 +13,13 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 - Conducted various visualisations and analyses to understand the housing market in Hong Kong.
 - Investigated the influence of location and house size on property prices.
 
-### Key Insights
+### Key Insights:
 
 - Location has a more significant impact on house prices than size.
 - Detailed visualisations of housing data on an interactive map.
 - Statistical analysis revealing correlations between price and area.
 
-### Key Highlights
+### Key Highlights:
 
 <div style="display: flex; justify-content: space-between;">
     <img src="images/project1/map_figure.png" alt="Geographical Distribution of Housing Prices" style="width: 45%;"/>
@@ -33,13 +33,13 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 - Focused on predicting housing prices in Buenos Aires based on factors such as size, location, and neighbourhood.
 - Divided the analysis into several notebooks, each addressing a different aspect of the prediction model.
 
-### Notebooks Overview
+### Notebooks Overview:
 
 #### 1. Prepare Data
 
 - Prepared the dataset by cleaning, handling missing values, and conducting initial exploratory data analysis.
 
-### Key Steps
+### Key Steps:
 
 - Plotted a histogram of `surface_covered_in_m2` and removed outliers.
 - Built a data wrangling function to filter data for houses.
@@ -48,7 +48,7 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 
 - Explored the relationship between house size and price using a linear regression model.
 
-### Key Steps
+### Key Steps:
 
 - Plotted the distribution of house sizes and a scatter plot of price vs area.
 - Calculated the correlation between `surface_covered_in_m2` and `price_aprox_usd`.
@@ -58,7 +58,7 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 
 - Investigated how the location of a property influences its price using geographical analysis and visualisation.
 
-### Key Steps
+### Key Steps:
 
 - Plotted a Mapbox-based location and price visualisation, and a 3D scatter plot.
 - Built and evaluated a linear regression model to predict house prices based on location.
@@ -67,12 +67,12 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 
 - Analysed the impact of neighbourhood characteristics on house prices using Ridge regression to handle overfitting.
 
-### Key Steps
+### Key Steps:
 
 - Cleaned data, extracted neighbourhood information, and applied one-hot encoding.
 - Built and evaluated the model, identifying significant neighbourhoods affecting house prices.
 
-### Key Highlights
+### Key Highlights:
 
 <div style="display: flex; justify-content: space-between;">
     <img src="images/project2/fig2.4_model_plot.png" alt="Linear Regression Model Plot" style="width: 23%;"/>
@@ -89,7 +89,7 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 - Implemented a 5-layer neural network architecture using ReLU activations and a sigmoid output layer.
 - Trained on a dataset of 64×64 images and achieved over 98% accuracy on the training set and 82% on the test set.
 
-### Key Steps
+### Key Steps:
 
 - Data pre-processing: Flattened, reshaped, and normalised input images.
 - Built the neural network: [LINEAR → RELU] × (L−1) → LINEAR → SIGMOID.
