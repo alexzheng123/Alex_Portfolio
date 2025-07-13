@@ -42,9 +42,7 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 
 ---
 
-## London Airbnb Price Forecasting
-
-[View project on GitHub](https://github.com/alexzheng123/London-Airbnb)  
+## [London Airbnb Price Forecasting](https://github.com/alexzheng123/London-Airbnb)
 [View Interactive Visualisations (Mapbox & 3D Plot)](https://alexzheng123.github.io/London-Airbnb)
 
 - Compared econometric and machine learning models to forecast Airbnb listing prices in London using data from [Inside Airbnb](https://insideairbnb.com/get-the-data/).
@@ -70,8 +68,8 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 ### Visual Highlights:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="images/london/mapbox_preview.png" alt="Interactive Mapbox Plot" style="width: 49%;" />
-  <img src="images/london/3d_scatter_preview.png" alt="3D Scatter Plot of Listings" style="width: 49%;" />
+  <img src="Images/map.png" alt="Interactive Mapbox Plot" style="width: 49%;" />
+  <img src="Images/3d.png" alt="3D Scatter Plot of Listings" style="width: 49%;" />
 </div>
 
 ---
