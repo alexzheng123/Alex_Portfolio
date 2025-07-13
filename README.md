@@ -10,7 +10,18 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 
 - Undergraduate dissertation analysing the weak form Efficient Market Hypothesis (EMH) of Bitcoin using 1-minute BTC/USD data from 2024.
 - Applied both traditional statistical tests (e.g. Ljung-Box, Hurst, BDS) and deep learning models (GRU, VMD-GRU-Attention).
-- Proposed and tested a novel VMD-GRU-Attention model that achieved strong predictive performance in forecasting returns, challenging the weak form EMH and suggesting that potentially exploitable trading opportunities may exist within the Bitcoin market. 
+- Proposed and tested a novel VMD-GRU-Attention model that achieved strong predictive performance in forecasting returns, challenging the weak form EMH and suggesting that potentially exploitable trading opportunities may exist within the Bitcoin market.
+
+### Model Comparison:
+
+| Model                          | Test MAE | Test RMSE |
+|-------------------------------|----------|-----------|
+| Naïve Benchmark               | 0.0476   | 0.0749    |
+| ARIMA                         | 0.0476   | 0.0749    |
+| GRU (basic)                   | 0.0480   | 0.0749    |
+| GRU (with macro/sentiment)    | 0.0478   | 0.0749    |
+| VMD-AttGRU (from literature)  | 0.0457   | 0.0703    |
+| **VMD-GRU-Attention (proposed)** | **0.0158** | **0.0239** |
 
 ### Key Visualisations:
 
@@ -27,6 +38,40 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 <div style="display: flex; gap: 10px;">
   <img src="images/dissertation/VMD-GRU-Att Forecast vs Actual Returns (Validation Set).png" width="48%"/>
   <img src="images/dissertation/VMD-GRU-Att Forecast vs Actual Returns (Test Set).png" width="48%"/>
+</div>
+
+---
+
+## London Airbnb Price Forecasting
+
+[View project on GitHub](https://github.com/alexzheng123/London-Airbnb)  
+[View Interactive Visualisations (Mapbox & 3D Plot)](https://alexzheng123.github.io/London-Airbnb)
+
+- Compared econometric and machine learning models to forecast Airbnb listing prices in London using data from [Inside Airbnb](https://insideairbnb.com/get-the-data/).
+- Cleaned a dataset of 95,000+ listings down to 60,000+ after preprocessing and outlier removal.
+- Focused on "Entire home/apt" listings to analyse how location, size, and availability affect prices.
+
+### Key Highlights:
+
+- Geospatial analysis revealed Westminster, Kensington and Chelsea as the most expensive areas.
+- Ridge and LASSO provided interpretable insights, highlighting neighbourhood effects.
+- Random Forest achieved the best predictive accuracy (Test MAE: **45.40**), outperforming Feedforward Neural Network and baselines.
+
+### Model Comparison:
+
+| Model                          | Validation MAE | Test MAE |
+|--------------------------------|----------------|----------|
+| Baseline (Mean Price)          | 97.23          | 97.93    |
+| Ridge Regression               | 61.82          | 61.88    |
+| LASSO Regression               | 62.23          | 62.23    |
+| Random Forest (Bayesian tuned) | **45.79**      | **45.40**|
+| Feedforward Neural Network     | 52.94          | 53.62    |
+
+### Visual Highlights:
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/london/mapbox_preview.png" alt="Interactive Mapbox Plot" style="width: 49%;" />
+  <img src="images/london/3d_scatter_preview.png" alt="3D Scatter Plot of Listings" style="width: 49%;" />
 </div>
 
 ---
