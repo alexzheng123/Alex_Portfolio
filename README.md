@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a passion for data science and machine learning. Here you can find information about my projects.
+Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a passion for data science and machine learning. Here, you can find information about my projects.
 
 ---
 
@@ -13,12 +13,13 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 - Conducted various visualisations and analyses to understand the housing market in Hong Kong.
 - Investigated the influence of location and house size on property prices.
 
-**Key insights:**
+### Key Insights
+
 - Location has a more significant impact on house prices than size.
 - Detailed visualisations of housing data on an interactive map.
 - Statistical analysis revealing correlations between price and area.
 
-**Key Highlights:**
+### Key Highlights
 
 <div style="display: flex; justify-content: space-between;">
     <img src="images/project1/map_figure.png" alt="Geographical Distribution of Housing Prices" style="width: 45%;"/>
@@ -30,7 +31,7 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 ## [Project 2: Buenos Aires Housing Price Prediction Project](https://github.com/alexzheng123/Buenos-Aires-Property-Market)
 
 - Focused on predicting housing prices in Buenos Aires based on factors such as size, location, and neighbourhood.
-- Divided analysis into several notebooks, each addressing different aspects of the prediction model.
+- Divided the analysis into several notebooks, each addressing a different aspect of the prediction model.
 
 ### Notebooks Overview
 
@@ -38,7 +39,8 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 
 - Prepared the dataset by cleaning, handling missing values, and conducting initial exploratory data analysis.
 
-**Key steps:**
+### Key Steps
+
 - Plotted a histogram of `surface_covered_in_m2` and removed outliers.
 - Built a data wrangling function to filter data for houses.
 
@@ -46,28 +48,31 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 
 - Explored the relationship between house size and price using a linear regression model.
 
-**Key steps:**
-- Plotted the distribution of house sizes and a scatter plot of price vs. area.
+### Key Steps
+
+- Plotted the distribution of house sizes and a scatter plot of price vs area.
 - Calculated the correlation between `surface_covered_in_m2` and `price_aprox_usd`.
 - Built and evaluated a baseline and linear regression model.
 
 #### 3. Predicting House Price with Location
 
-- Investigated how the location of a property influences its price with geographical analysis and visualisation.
+- Investigated how the location of a property influences its price using geographical analysis and visualisation.
 
-**Key steps:**
-- Plotted a Mapbox location and price visualisation, and a 3D scatter plot.
+### Key Steps
+
+- Plotted a Mapbox-based location and price visualisation, and a 3D scatter plot.
 - Built and evaluated a linear regression model to predict house prices based on location.
 
 #### 4. Predicting Price with Neighbourhood
 
 - Analysed the impact of neighbourhood characteristics on house prices using Ridge regression to handle overfitting.
 
-**Key steps:**
+### Key Steps
+
 - Cleaned data, extracted neighbourhood information, and applied one-hot encoding.
 - Built and evaluated the model, identifying significant neighbourhoods affecting house prices.
 
-**Key Highlights:**
+### Key Highlights
 
 <div style="display: flex; justify-content: space-between;">
     <img src="images/project2/fig2.4_model_plot.png" alt="Linear Regression Model Plot" style="width: 23%;"/>
@@ -81,12 +86,12 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 ## [Project 3: Cat Image Identification Using Deep Learning](https://github.com/alexzheng123/Cat_Image_Classification)
 
 - Developed a deep neural network model to classify images as either containing a cat or not.
-- Implemented a 5-layer neural network architecture using ReLU activations and sigmoid for the output layer.
-- Trained on a dataset of 64x64 images and achieved over 98% accuracy on the training set and 82% on the test set.
+- Implemented a 5-layer neural network architecture using ReLU activations and a sigmoid output layer.
+- Trained on a dataset of 64×64 images and achieved over 98% accuracy on the training set and 82% on the test set.
 
 ### Key Steps
 
-- **Data pre-processing**: Flattened, reshaped, and normalised input images.
-- **Built the neural network**: [LINEAR->RELU] × (L-1) -> LINEAR -> SIGMOID.
-- **Backpropagation**: Implemented gradient descent for weight updates.
-- **Evaluation**: Tested the model on new images and visualised the results.
+- Data pre-processing: Flattened, reshaped, and normalised input images.
+- Built the neural network: [LINEAR → RELU] × (L−1) → LINEAR → SIGMOID.
+- Backpropagation: Implemented gradient descent for weight updates.
+- Evaluation: Tested the model on new images and visualised the results.
