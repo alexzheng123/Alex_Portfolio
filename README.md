@@ -20,7 +20,7 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 #### VMD-GRU-Attention Architecture
 <img src="images/dissertation/VMD-GRU-Attention-steps.png" width="600"/>
 
-#### VMD Decomposition
+#### Variational Mode Decomposition (VMD)
 <img src="images/dissertation/VMD decomposition.png" width="600"/>
 
 #### Forecast vs Actual (Validation & Test)
