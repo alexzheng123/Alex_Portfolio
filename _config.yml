@@ -3,6 +3,6 @@ plugins:
   - jekyll-remote-theme
 
 title: Alex Zheng
-description: Hi! Welcome to my portfolio site!
+description: Hi, Welcome to my portfolio site!
 
 show_downloads: False
