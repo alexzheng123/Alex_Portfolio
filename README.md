@@ -24,6 +24,7 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
     <img src="images/project1/map_figure.png" alt="Geographical Distribution of Housing Prices" style="width: 45%;"/>
     <img src="images/project1/price_per_sq_foot_vs_area_scatter.png" alt="Price per Square Foot vs Area" style="width: 52%;"/>
 </div>
+
 ---
 
 ## [Project 2: Buenos Aires Housing Price Prediction Project](https://github.com/alexzheng123/Buenos-Aires-Property-Market)
