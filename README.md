@@ -4,7 +4,7 @@
 
 Hi, Welcome to my portfolio site! I'm Alex Zheng, an economics student with a passion for data science and machine learning. Here you can find information about my projects.
 
-## [Project 3: Hong Kong Housing Price Data Science Project](https://github.com/alexzheng123/Hong-Kong-Housing-Price)
+## [Project 1: Hong Kong Housing Price Data Science Project](https://github.com/alexzheng123/Hong-Kong-Housing-Price)
 - Scraped housing information from Centaline Property Agency.
 - Cleaned and processed the data, including geocoding addresses.
 - Conducted various visualizations and analyses to understand the housing market in Hong Kong.
@@ -23,7 +23,7 @@ Hi, Welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 
 
 
-## [Project 4: Buenos Aires Housing Price Prediction Project](https://github.com/alexzheng123/Buenos-Aires-Property-Market)
+## [Project 2: Buenos Aires Housing Price Prediction Project](https://github.com/alexzheng123/Buenos-Aires-Property-Market)
 - Focused on predicting housing prices in Buenos Aires based on factors such as size, location, and neighborhood.
 - Divided analysis into several notebooks, each addressing different aspects of the prediction model.
 
@@ -63,7 +63,7 @@ Hi, Welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
     <img src="images/project2/fig4.1_feature_importance.png" alt="Feature Importance" style="width: 23%;"/>
 </div>
 
-## [Project 5: Cat Image Identification Using Deep Learning](https://github.com/alexzheng123/Cat_Image_Classification)
+## [Project 3: Cat Image Identification Using Deep Learning](https://github.com/alexzheng123/Cat_Image_Classification)
 - Developed a deep neural network model to classify images as either containing a cat or not.
 - Implemented a 5-layer neural network architecture using ReLU activations and sigmoid for the output layer.
 - Trained on a dataset of 64x64 images and achieved over 98% accuracy on the training set and 82% on the test set.
