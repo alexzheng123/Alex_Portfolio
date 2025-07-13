@@ -6,7 +6,7 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 
 ---
 
-## [Dissertation – "Market Efficiency of Bitcoin in 2024: Evidence from Statistical and Deep Learning Models"](https://github.com/alexzheng123/EC331-project)
+## ["Market Efficiency of Bitcoin in 2024: Evidence from Statistical and Deep Learning Models"](https://github.com/alexzheng123/EC331-project)
 
 - Undergraduate dissertation analysing the weak-form market efficiency of Bitcoin using 1-minute BTC/USD data from 2024.
 - Applied both traditional statistical tests (e.g. Ljung-Box, Hurst, BDS) and deep learning models (GRU, VMD-GRU-Attention).
