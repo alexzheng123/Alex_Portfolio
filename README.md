@@ -1,4 +1,4 @@
-<img width="468" height="12" alt="image" src="https://github.com/user-attachments/assets/3c71d95e-ee5e-482c-873e-54eb86caa217" /># Alex's Portfolio
+# Alex's Portfolio
 
 ## Welcome!
 
