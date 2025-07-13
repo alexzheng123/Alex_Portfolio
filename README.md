@@ -12,7 +12,7 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 - Applied both traditional statistical tests (e.g. Ljung-Box, Hurst, BDS) and deep learning models (GRU, VMD-GRU-Attention).
 - Proposed and tested a novel VMD-GRU-Attention model that achieved strong predictive performance in forecasting returns, challenging the weak-form EMH and suggesting that potentially exploitable trading opportunities may exist within the Bitcoin market. 
 
-### Key Visualisations
+### Key Visualisations:
 
 #### Bitcoin Price & Volume (2024)
 <img src="images/dissertation/Bitcoin Close Price and volume.png" width="600"/>
