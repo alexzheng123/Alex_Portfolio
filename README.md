@@ -68,7 +68,7 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 ### Visual Highlights:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="images/london/map" alt="Interactive Mapbox Plot" style="width: 32%;" />
+  <img src="images/london/map.png" alt="Mapbox Plot" style="width: 32%;" />
   <img src="images/london/3d.png" alt="3D Scatter Plot of Listings" style="width: 32%;" />
   <img src="images/london/location.png" alt="Mean Price by Neighbourhood" style="width: 32%;" />
 </div>
