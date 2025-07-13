@@ -30,49 +30,13 @@ Hi, welcome to my portfolio site! I'm Alex Zheng, an economics student with a pa
 
 ## [Project 2: Buenos Aires Housing Price Prediction Project](https://github.com/alexzheng123/Buenos-Aires-Property-Market)
 
-- Focused on predicting housing prices in Buenos Aires based on factors such as size, location, and neighbourhood.
-- Divided the analysis into several notebooks, each addressing a different aspect of the prediction model.
+- Predicted housing prices in Buenos Aires using factors like size, location, and neighbourhood.
+- Cleaned and prepared data, removing outliers and applying one-hot encoding for categorical features.
+- Built multiple regression models (baseline, linear, and Ridge) across different dimensions.
+- Visualised geographical price patterns using Mapbox and 3D scatter plots.
+- Assessed model performance and identified influential neighbourhoods.
 
-### Notebooks Overview:
-
-#### 1. Prepare Data
-
-- Prepared the dataset by cleaning, handling missing values, and conducting initial exploratory data analysis.
-
-### Key Steps:
-
-- Plotted a histogram of `surface_covered_in_m2` and removed outliers.
-- Built a data wrangling function to filter data for houses.
-
-#### 2. Predicting House Price with Size
-
-- Explored the relationship between house size and price using a linear regression model.
-
-### Key Steps:
-
-- Plotted the distribution of house sizes and a scatter plot of price vs area.
-- Calculated the correlation between `surface_covered_in_m2` and `price_aprox_usd`.
-- Built and evaluated a baseline and linear regression model.
-
-#### 3. Predicting House Price with Location
-
-- Investigated how the location of a property influences its price using geographical analysis and visualisation.
-
-### Key Steps:
-
-- Plotted a Mapbox-based location and price visualisation, and a 3D scatter plot.
-- Built and evaluated a linear regression model to predict house prices based on location.
-
-#### 4. Predicting Price with Neighbourhood
-
-- Analysed the impact of neighbourhood characteristics on house prices using Ridge regression to handle overfitting.
-
-### Key Steps:
-
-- Cleaned data, extracted neighbourhood information, and applied one-hot encoding.
-- Built and evaluated the model, identifying significant neighbourhoods affecting house prices.
-
-### Key Highlights:
+### Key Highlights
 
 <div style="display: flex; justify-content: space-between;">
     <img src="images/project2/fig2.4_model_plot.png" alt="Linear Regression Model Plot" style="width: 23%;"/>
